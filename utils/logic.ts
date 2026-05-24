@@ -100,7 +100,7 @@ export const calculateNetwork = (serverCount: number): Solution[] => {
       leafCount: leafCount,
       spineCount: spineCount,
       leafModel: 'Leaf交换机 (32*400GE)',
-      spineModel: 'Spine交换机 (64*400GE)',
+      spineModel: 'Spine交换机 (32*400GE)',
       maxCapacity: leafCount * 4, 
       scalable: true,
       notes: [
