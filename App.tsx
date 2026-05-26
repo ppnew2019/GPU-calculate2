@@ -36,7 +36,7 @@ export default function App() {
               <Network className="w-8 h-8 text-cyan-400" />
             </div>
             <div>
-              <h1 className="text-2xl font-extrabold text-slate-100 tracking-tight">GPU算力网络计算器</h1>
+              <h1 className="text-2xl font-extrabold text-slate-100 tracking-tight">GPU拓扑生成器</h1>
               <p className="text-sm text-slate-400 hidden sm:block font-medium font-mono mt-0.5">910B_CLUSTER_TOPOLOGY_GENERATOR</p>
             </div>
           </div>
